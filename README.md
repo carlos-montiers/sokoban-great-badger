@@ -2,7 +2,7 @@
 
 A character designed for Sokoban games.
 
-![The Great Badger](TheGreatBadger-spritesheet.png)
+![The Great Badger](TheGreatBadger-spritesheet.png?rev=1)
 
 ## Details
 
